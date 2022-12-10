@@ -1,0 +1,34 @@
+header{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+body{
+    background-color: black;
+    color: white;
+}
+label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height:29px;
+}
+.radio{
+    width: 17px;
+height: 17px;
+left: 202px;
+top: 656px;
+
+border: 1px solid #FFFFFF;
+border-radius: 1000px;
+}
+button {
+    padding: 5px 30px;
+    border-radius: 0px;
+}
+
